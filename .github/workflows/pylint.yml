@@ -21,3 +21,4 @@ jobs:
     - name: Analysing the code with pylint
       run: |
         pylint $(git ls-files '*.py')
+[![Pylint](https://github.com/infopayx-star/dropbox-api-content-hasher/actions/workflows/pylint.yml/badge.svg)](https://github.com/infopayx-star/dropbox-api-content-hasher/actions/workflows/pylint.yml)
